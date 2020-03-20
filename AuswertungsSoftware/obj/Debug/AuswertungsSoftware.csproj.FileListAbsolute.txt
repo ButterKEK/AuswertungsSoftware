@@ -17,3 +17,12 @@ G:\AuswertungsSoftware\obj\Debug\AuswertungsSoftware.Properties.Resources.resour
 G:\AuswertungsSoftware\obj\Debug\AuswertungsSoftware.csproj.GenerateResource.cache
 G:\AuswertungsSoftware\obj\Debug\AuswertungsSoftware.exe
 G:\AuswertungsSoftware\obj\Debug\AuswertungsSoftware.pdb
+E:\Git\AuswertungsSoftware\bin\Debug\AuswertungsSoftware.exe.config
+E:\Git\AuswertungsSoftware\bin\Debug\AuswertungsSoftware.exe
+E:\Git\AuswertungsSoftware\bin\Debug\AuswertungsSoftware.pdb
+E:\Git\AuswertungsSoftware\obj\Debug\AuswertungsSoftware.csprojAssemblyReference.cache
+E:\Git\AuswertungsSoftware\obj\Debug\AuswertungsSoftware.FrmAuswertung.resources
+E:\Git\AuswertungsSoftware\obj\Debug\AuswertungsSoftware.Properties.Resources.resources
+E:\Git\AuswertungsSoftware\obj\Debug\AuswertungsSoftware.csproj.GenerateResource.cache
+E:\Git\AuswertungsSoftware\obj\Debug\AuswertungsSoftware.exe
+E:\Git\AuswertungsSoftware\obj\Debug\AuswertungsSoftware.pdb
